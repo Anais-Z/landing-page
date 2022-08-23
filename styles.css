@@ -65,3 +65,56 @@ footer > p{
     justify-content: center;
     
 }
+
+main > h2{
+    text-align: center;
+    color: rgb(94, 169, 243);
+}
+
+
+.planet-group{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.planet-group > div > img{
+    height: 225px;
+    width: 225px;
+}
+
+.planet-group > div > p{
+    text-align: center;
+}
+
+.quote > p {
+    text-align: center;
+    font-style: italic;
+}
+
+.actual-quote{
+    font-size: 25px;
+}
+
+.thor{
+    font-weight: bold;
+    font-size: 19px;
+}
+
+.form-button{
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+    width: 560px;
+}
+
+.form-button > button{
+    height: 30px;
+    margin-top: 25px;
+    margin-left: 14px;
+    color: rgb(0, 0, 255);
+}
+
+.form-button > div > p{
+    color: rgb(255, 255, 255);
+}
