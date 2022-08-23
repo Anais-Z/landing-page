@@ -27,9 +27,7 @@ footer{
     background-color: rgba(3, 8, 35, 0.876);
 }
 
-footer > p{
-    color: rgb(240, 248, 255);
-}
+
 
 .form-button{
     background-color: rgb(5, 141, 214);
@@ -117,4 +115,16 @@ main > h2{
 
 .form-button > div > p{
     color: rgb(255, 255, 255);
+}
+
+footer > div > p{
+    height: 20px;
+    text-align: center;
+    color: rgb(240, 248, 255); 
+}
+
+
+
+footer{
+    height: 50px;
 }
