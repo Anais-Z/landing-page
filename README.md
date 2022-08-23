@@ -6,3 +6,5 @@ Images
 Planets Image and Earth - Space.com
 Earth, Mars, Jupiter - Wikipedia
 Neptune - Wired.com
+
+Planet logo - iconsdb.com
