@@ -84,7 +84,12 @@ main > h2{
     text-align: center;
 }
 
+.quote{
+    height: 280px;
+    align-items: center;
+}
 .quote > p {
+    padding-top: 60px;
     text-align: center;
     font-style: italic;
 }
@@ -99,6 +104,7 @@ main > h2{
 }
 
 .form-button{
+    margin-top: 40px;
     margin-left: auto;
     margin-right: auto;
     display: flex;
@@ -118,13 +124,11 @@ main > h2{
 }
 
 footer > div > p{
-    height: 20px;
+    padding: 36px;
     text-align: center;
     color: rgb(240, 248, 255); 
 }
 
-
-
-footer{
-    height: 50px;
+.outside-form{
+    height: 180px;
 }
